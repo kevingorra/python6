@@ -1,4 +1,5 @@
 # python6
-## ciclos listas y diccionario
+## Clase 6 ciclos listas y diccionario
+## Clase 7 EjercicioPractico uno y dos
 ***
 ### desarrollado por Kevin Valencia Zuleta
